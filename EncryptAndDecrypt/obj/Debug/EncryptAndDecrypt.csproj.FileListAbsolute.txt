@@ -1,0 +1,10 @@
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\EncryptAndDecrypt\bin\Debug\EncryptAndDecrypt.exe.config
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\EncryptAndDecrypt\bin\Debug\EncryptAndDecrypt.exe
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\EncryptAndDecrypt\bin\Debug\EncryptAndDecrypt.pdb
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.csprojResolveAssemblyReference.cache
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.Form1.resources
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.Properties.Resources.resources
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.csproj.GenerateResource.cache
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.csproj.CoreCompileInputs.cache
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.exe
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.pdb

@@ -1,0 +1,13 @@
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\API_Automation_Framework\bin\x64\Debug\API_Automation_Framework.dll.config
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\API_Automation_Framework\bin\x64\Debug\API_Automation_Framework.dll
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\API_Automation_Framework\bin\x64\Debug\API_Automation_Framework.pdb
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\API_Automation_Framework\bin\x64\Debug\log4net.dll
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\API_Automation_Framework\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\API_Automation_Framework\bin\x64\Debug\nunit.framework.dll
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\API_Automation_Framework\bin\x64\Debug\NUnit3.TestAdapter.dll
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\API_Automation_Framework\bin\x64\Debug\RestSharp.dll
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\API_Automation_Framework\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\API_Automation_Framework\obj\x64\Debug\API_Automation_Framework.csproj.CoreCompileInputs.cache
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\API_Automation_Framework\obj\x64\Debug\API_Automation_Framework.dll
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\API_Automation_Framework\obj\x64\Debug\API_Automation_Framework.pdb
+C:\Users\Rupesh Chaitu\source\repos\API_Automation_Framework\API_Automation_Framework\obj\x64\Debug\API_Automation_Framework.csprojResolveAssemblyReference.cache
