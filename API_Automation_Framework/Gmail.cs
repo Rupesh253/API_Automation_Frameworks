@@ -20,8 +20,8 @@ namespace API_Automation_Framework
             restClient.BaseUrl = new Uri("https://www.googleapis.com");
 
 
-            RestRequest restRequest = new RestRequest("/gmail/v1/users/rupesharyan250@gmail.com/profile", Method.GET);
-            restRequest.AddQueryParameter("access_token", "Jkqy2EUMlv457xh9Zcmy5EcX");
+            RestRequest restRequest = new RestRequest("/gmail/v1/users/XXXXXYYYYYYYZZZZZZZ/profile", Method.GET);
+            restRequest.AddQueryParameter("access_token", "XYYXYXYXYXYXYXY");
             restRequest.RequestFormat = DataFormat.Json;
 
             IRestResponse restResponse = restClient.Execute(restRequest);
