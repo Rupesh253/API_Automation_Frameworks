@@ -16,10 +16,10 @@ namespace API_Automation_Framework
         [Test]
         public static void TwitterPOST()
         {
-            string consumerKey = "8b3fU98QGFlQJ4rYEhM4tKCpq";
-            string consumerSecret = "5dfCilNb9XMRuElOLISHP7eMF5xuzhUmux3eRpIMke9aJies5k";
-            string accessToken = "965092706627280896-abDY7PFPwkbxZdG3fooze6uCuXwViAv";
-            string accessTokenSecret = "bJFeU140eCdfJKVNVlc9GhYLd6eqGXZhBGtpL4jo8DWvk";
+            string consumerKey = "xxxxxxxxXXXYYYYYYYYZZZZZZZ";
+            string consumerSecret = "XXXXXXXXXXXXXXXXXXXXYYYYYYYYYYYYYYZZZZZZ";
+            string accessToken = "XXXXXXYYYYYYYZZZZZZZZZZZZ";
+            string accessTokenSecret = "XXXXXXXXXXYYYYYYYYYYYYYZZZZZZZZZZZZZZ";
 
 
             RestClient restClient = new RestClient();
@@ -30,7 +30,7 @@ namespace API_Automation_Framework
                 OAuth1Authenticator.ForRequestToken(consumerKey, consumerSecret);
                 //OAuth1Authenticator.ForRequestToken(consumerKey, consumerSecret);
                 //OAuth1Authenticator.ForProtectedResource(consumerKey, consumerSecret, accessToken, accessTokenSecret);
-                //OAuth1Authenticator.ForClientAuthentication(consumerKey, consumerSecret,"rupesharyan253@gmail.com","Rupi@0253");
+                //OAuth1Authenticator.ForClientAuthentication(consumerKey, consumerSecret,"XXXXXXXYYYYYYYZZZZZZZ","XXXXYYYYYYY");
 
             }
             RestRequest restRequest = new RestRequest();
